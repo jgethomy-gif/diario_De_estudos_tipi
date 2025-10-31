@@ -1,1 +1,2 @@
 " exercicios 1: fazer um programa com estruturade repeti‡Æo" 
+"Anotacäes da Aula - GitHub" 
